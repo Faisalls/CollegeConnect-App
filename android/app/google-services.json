@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "110613896539",
+    "project_id": "fir-collegeconnect",
+    "storage_bucket": "fir-collegeconnect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110613896539:android:7f0e8037e3fbc1f03ece7e",
+        "android_client_info": {
+          "package_name": "com.example.collegeconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110613896539-4krfgfa22hp4198ek3mut7b8uc3v8tn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVSBdrYrF8wgyyWossTRTXx1EDPk_iM_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110613896539-4krfgfa22hp4198ek3mut7b8uc3v8tn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
